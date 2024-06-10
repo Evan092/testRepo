@@ -1,0 +1,28 @@
+15 is 1.127
+10 is 1.078
+
+-1 is 1.115730
+-2 is 1.104460
+
+-9 is 1.07016
+.01176
+
+
+
+
+
+Matte Desert Tan: 1.1045
+Matte Grass Green: 1.0368
+Matte Sakura Pink: 1.0702
+Matte Latte Brown: 1.11573
+Matte Ice Blue: 1.039
+Basic White 1.089
+Basic Cyan: 1.029
+Basic Yellow: 1.029
+
+
+Basic 1.059
+Matte 1.081246
+
+
+Black,red,orange perfect
